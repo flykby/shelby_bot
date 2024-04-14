@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "shelby-bot"
+version = "0.1.0"
+description = ""
+authors = ["LfybkRF <daniil_zohno@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+flask = "^3.0.3"
+flask-sqlalchemy = "^3.1.1"
+flask-admin = "^1.6.1"
+sqlalchemy = "^2.0.29"
+asyncpg = "^0.29.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

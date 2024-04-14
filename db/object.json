@@ -1,0 +1,48 @@
+{
+    "data": [
+        {
+            "name": "The Little Buddy",
+            "currencies": {
+                "keys": 21,
+                "ref": 0
+            },
+            "maxPrice": 20,
+            "isActive": true
+        },
+        {
+            "name": "Community Little Buddy",
+            "currencies": {
+                "keys": 6,
+                "ref": 0
+            },
+            "maxPrice": 20,
+            "isActive": true
+        },
+        {
+            "name": "Unusual Little Buddy",
+            "currencies": {
+                "keys": 8,
+                "ref": 0
+            },
+            "maxPrice": 0,
+            "isActive": false
+        },
+        {
+            "name": "Strange Silver Botkiller Flame Thrower Mk.II",
+            "currencies": {
+                "keys": 15,
+                "ref": 0
+            },
+            "maxPrice": 0,
+            "isActive": false
+        },
+        {
+            "name": "Strange Professional Killstreak Silver Botkiller Flame Thrower Mk.II",
+            "currencies": {
+                "keys": 10
+            },
+            "maxPrice": 0,
+            "isActive": false
+        }
+    ]
+}
