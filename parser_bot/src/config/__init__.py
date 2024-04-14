@@ -9,7 +9,7 @@ MY_STEAM_ID: str = "76561198302515355"
 STEP_REF: int = 3
 STEP_KEY: int = 5
 
-POSTGRES_URL:str = "postgresql+asyncpg://postgres:postgres@localhost:5432/forms_crud"
+POSTGRES_URL:str = "postgresql+asyncpg://postgres:postgres@localhost:5432/shelby_bot"
 POSTGRES_USER:str = "postgres"
 POSTGRES_PASS:str = "postgres"
 
